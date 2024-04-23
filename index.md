@@ -13,7 +13,7 @@ Follow my GitHub Account: [Jahnvi Gupta](https://github.com/jahnvi047)
 
 ---
 
-- System: Ubuntu 22.04.4 LTS (Jammy Jellyfish)
+- System: windows 11 (Jammy Jellyfish)
 - Install "Docker" on your machine. For installing Docker, visit: [Official Documentation](https://docs.docker.com/engine/install/ubuntu/)
 
 ## Overview:
